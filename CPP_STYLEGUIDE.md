@@ -81,8 +81,8 @@ Language: American English
 
 <br>
 
-    for(blah; blah; blah)
+    for (blah; blah; blah)
         singleLine();
 
-    while(x)
+    while (x)
         singleLine();
