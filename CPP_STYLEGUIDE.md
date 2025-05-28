@@ -69,12 +69,12 @@ Language: American English
     }
 
 ## Loops:
-    for(blah; blah; blah) {
+    for (blah; blah; blah) {
         multi();
         line();
     }
 
-    while(x) {
+    while (x) {
         multi();
         line();
     }
