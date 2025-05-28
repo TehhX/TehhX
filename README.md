@@ -9,5 +9,5 @@ Hobbyist programmer. Started with Java, moved on from there.
 * [Sirtet](https://github.com/TehhX/Sirtet): A tetris clone made with Java.
 
 ## Other Things in my Profile Repository
-* Style guides for different languages
+* Style guides for different languages (I couldn't find a common existing style that matched mine)
 * Empty space
