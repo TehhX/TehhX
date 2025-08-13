@@ -4,7 +4,7 @@
 ## About Me
 Hobbyist programmer. Started with Java, moved on from there.
 
-[linktree](https://www.linktr.ee/tehhx)
+[website](https://www.tehx.xyz)
 
 ## My Things
 * [Scatter Sync](https://github.com/TehhX/ScatterSync): A program to help with synchronising files which are scattered across devices and paths.
