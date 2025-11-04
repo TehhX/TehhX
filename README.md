@@ -2,12 +2,8 @@
 ### *Because TehX was taken*
 
 ## About Me
-Hobbyist programmer. Started with Java, then to C++, C (my favouirte), and Rust.
+Hobbyist programmer. Started with Java, then to C++, C (my favouirte), then Rust and a bit of Python
 
-[Website](https://www.tehx.xyz) here, website *repo* [here](https://github.com/TehhX/TehhX.github.io).
+[Website](https://www.tehx.xyz) here, website *repo* [here](https://github.com/TehhX/TehhX.github.io)
 
-## My Things
-* [Cider](https://github.com/Tehhx/Cider): A small directory/path manipulation library in C17.
-* [Sirtet](https://github.com/TehhX/Sirtet): A tetris clone made with Java.
-* [Bitmap Encoder](https://github.com/TehhX/Bitmap-Encoder): A simple bitmap encoder written in C++ made to generate and save various imagery as bitmap files.
-* [Learning Repositories](https://github.com/search?q=owner%3ATehhX+Learning-&type=repositories): Repositories I use to learn various languages and/or libraries.
+[Learning repositories](https://github.com/search?q=owner%3ATehhX+Learning-&type=repositories) that I use to learn various languages and/or libraries
